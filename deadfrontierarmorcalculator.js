@@ -4,7 +4,10 @@ $(document).ready(function () {
     //it was programmed as a continuation from the Damage Calculator.
     //Credit to the many Dead Frontier Wiki contributors
     //for the armor and enemy data used in the json files as well as
-    //the armor damage formulas.
+    //the armor damage formulas. Thanks to Clayton for clarifying some
+    //aspects of said formulas. And, as always, massive thanks to awoo
+    //for constantly helping me out whenever I ran into issues
+    //getting my code to work :).
 
     //#region Local variables
     let health = 50;
