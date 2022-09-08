@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: auto;
+}
+
+div {
+    color: white;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.text {
+    display: block;
+    margin-bottom: 10%;
+}
+
+.calculatorResults {
+    display: block;
+}
+
+h6 {
+    display: inline-block;
+}
+
+input {
+    width: 6em;
+}
+
+.panel-title {
+    display: block;
+}
+
+tr {
+    text-align: left;
+}
+
+th {
+    text-align: center;
+}
+
+th.table-left {
+    text-align: left;
+}
+
+tbody {
+    display: none;
+}
+
+td {
+    text-align: center;
+}
+
+td.name {
+    text-align: left;
+}

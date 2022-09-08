@@ -1,0 +1,40 @@
+[
+    {"cat":"Light Armor", "items":[
+        {"name":"Sports Armor", "durability":"20", "absorption":"0.2"},
+        {"name":"Zylon Vest", "durability":"40", "absorption":"0.25"},
+        {"name":"Kevlar Vest", "durability":"60", "absorption":"0.3"},
+        {"name":"Mesh SLX", "durability":"80", "absorption":"0.4"},
+        {"name":"Mesh RX-2", "durability":"100", "absorption":"0.45"},
+        {"name":"Exterminator Mesh", "durability":"120", "absorption":"0.5"},
+        {"name":"Exterminator Mesh GT", "durability":"140", "absorption":"0.55"},
+        {"name":"Nomad Mesh", "durability":"180", "absorption":"0.6"},
+        {"name":"Dusk Mesh", "durability":"200", "absorption":"0.6"},
+        {"name":"Scavenger Mesh", "durability":"210", "absorption":"0.65"},
+        {"name":"Shinobu Mesh", "durability":"260", "absorption":"0.7"},
+        {"name":"X-Dusk Mesh", "durability":"300", "absorption":"0.85"},
+        {"name":"Hazard Mesh", "durability":"350", "absorption":"0.8"},
+        {"name":"X-Terminator Mesh", "durability":"380", "absorption":"0.8"},
+        {"name":"Titan Hunter Mesh", "durability":"600", "absorption":"0.6"}
+    ]},
+
+    {"cat":"", "items":[]},
+
+    {"cat":"Heavy Armor", "items":[
+        {"name":"Flak Jacket", "durability":"80", "absorption":"0.35"},
+        {"name":"SN-42", "durability":"100", "absorption":"0.5"},
+        {"name":"Reactive SLX", "durability":"120", "absorption":"0.55"},
+        {"name":"Reactive XT800", "durability":"150", "absorption":"0.6"},
+        {"name":"Exterminator Reactive", "durability":"180", "absorption":"0.7"},
+        {"name":"Exterminator Reactive XT", "durability":"220", "absorption":"0.85"},
+        {"name":"Bio Reactive", "durability":"280", "absorption":"0.85"},
+        {"name":"Dusk Reactive", "durability":"300", "absorption":"0.9"},
+        {"name":"Steelcase Reactive", "durability":"340", "absorption":"0.85"},
+        {"name":"Tatakau Reactive", "durability":"390", "absorption":"0.85"},
+        {"name":"Corpse Carapace", "durability":"400", "absorption":"0.5"},
+        {"name":"X-Dusk Reactive", "durability":"450", "absorption":"0.95"},
+        {"name":"Scarab Reactive", "durability":"500", "absorption":"0.9"},
+        {"name":"X-Terminator Reactive", "durability":"535", "absorption":"0.9"},
+        {"name":"Hazard Reactive", "durability":"620", "absorption":"0.9"},
+        {"name":"Vengeance Guard", "durability":"800", "absorption":"0.95"}
+    ]}
+]   

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="deadfrontierarmorcalculator.css">
+    <script type="text/javascript" src="deadfrontierarmorcalculator.js"></script>
+</head>
+<body>
+    <div class="text">Armor Calculator
+    </div>
+    <div class="containerMain">
+        <div class="armorCalculator">
+            <div id="calculatorOptions" class="panel panel-default">
+                <div>
+                    <h3 class="panel-title">Armor:</h3>
+                    <select id="armorSelection">
+                        <option data-durability="0" data-absorption="0">Please Select an Option</option>
+                        <optgroup></optgroup>
+                    </select>
+                </div>
+                <div>
+                    <h3 class="panel-title">End Bonus:</h3>
+                    <input id="endBonus" type="number" placeholder="0 - 24">
+                </div>
+                <div>
+                    <h3 class="panel-title">Zone:</h3>
+                    <select id="zoneSelection">
+                        <option>Please Select an Option</option>
+                        <optgroup></optgroup>
+                    </select>
+                </div>
+                <div>
+                    <h3 class="panel-title">Endurance:</h3>
+                    <input id="enduranceValue" type="number" placeholder="25-100">
+                </div>
+                <div>
+                    <h3 class="panel-title">IDR Boost:</h3>
+                    <input id="boostValue" type="number" placeholder="0 - 79">
+                </div>
+                <div>
+                    <h6 class="panel-title">Protection:</h6>
+                    <h6 id="baseDurability">0</h6>
+                    <h6 id="baseAbsorption">(0)</h6>
+                </div>
+            </div>
+            <div class="calculatorResults">
+                <table id="calculatorResultsTable">
+                    <thead>
+                        <tr role="row">
+                            <th class="table-left">Enemy</th>
+                            <th title="Melee damage taken based on IDR boost">Melee</th>
+                            <th title="Vomit damage taken based on IDR boost">Vomit</th>
+                            <th title="Explosion damage taken based on IDR boost">Explosion</th>
+                            <th title="Damage to Break: the total amount of damage required to break the armor based on armor absorption">DTB</th>
+                            <th title="Damage to Kill: the total amount of damage required to kill the player based on armor absorption">DTK</th>
+                            <th title="Hits to Break: the total number of hits required to break the armor based on all values">HTB</th>
+                            <th title="Hits to Kill: the total number of hits required to kill the player based on all values">HTK</th>
+                            <th colspan="3" title="Whether or not the player can survive the first hit taken">Survivable?</th>
+                            <th title="Incoming Damage Reduction(%) Required: How much IDR is required for the player to survive">IDR% Required</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>

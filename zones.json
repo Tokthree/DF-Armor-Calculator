@@ -1,0 +1,177 @@
+[
+    {"cat":"Blue Zone", "items":[
+        {"name":"Dog", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Female Zombie", "melee":"8", "vomit":"0", "explosion":"0"},
+        {"name":"Male Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Female Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Male Zombie", "melee":"12", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Green Zone", "items":[
+        {"name":"Dog", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Female Zombie", "melee":"8", "vomit":"0", "explosion":"0"},
+        {"name":"Male Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Female Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Male Zombie", "melee":"12", "vomit":"0", "explosion":"0"},
+        {"name":"Burned Female", "melee":"22", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Female", "melee":"22", "vomit":"20", "explosion":"0"},
+        {"name":"Burned Male", "melee":"24", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Male", "melee":"24", "vomit":"20", "explosion":"0"},
+        {"name":"Blood Hound", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Bone", "melee":"30", "vomit":"0", "explosion":"0"},
+        {"name":"Reaper", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Small Bloat", "melee":"20", "vomit":"0", "explosion":"20"}
+    ]},
+
+    {"cat":"Yellow Zone", "items":[
+        {"name":"Dog", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Female Zombie", "melee":"8", "vomit":"0", "explosion":"0"},
+        {"name":"Male Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Female Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Male Zombie", "melee":"12", "vomit":"0", "explosion":"0"},
+        {"name":"Burned Female", "melee":"22", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Female", "melee":"22", "vomit":"20", "explosion":"0"},
+        {"name":"Burned Male", "melee":"24", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Male", "melee":"24", "vomit":"20", "explosion":"0"},
+        {"name":"Blood Hound", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Bone", "melee":"30", "vomit":"0", "explosion":"0"},
+        {"name":"Reaper", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Small Bloat", "melee":"20", "vomit":"0", "explosion":"20"}
+    ]},
+
+    {"cat":"Orange Zone", "items":[
+        {"name":"Dog", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Female Zombie", "melee":"8", "vomit":"0", "explosion":"0"},
+        {"name":"Male Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Female Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Male Zombie", "melee":"12", "vomit":"0", "explosion":"0"},
+        {"name":"Burned Female", "melee":"22", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Female", "melee":"22", "vomit":"20", "explosion":"0"},
+        {"name":"Burned Male", "melee":"24", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Male", "melee":"24", "vomit":"20", "explosion":"0"},
+        {"name":"Blood Hound", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Bloat", "melee":"40", "vomit":"0", "explosion":"40"},
+        {"name":"Tendril", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Spider", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Brute", "melee":"30", "vomit":"40", "explosion":"0"},
+        {"name":"Leaper", "melee":"9999", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Red Zone", "items":[
+        {"name":"Dog", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Female Zombie", "melee":"8", "vomit":"0", "explosion":"0"},
+        {"name":"Male Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Female Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Male Zombie", "melee":"12", "vomit":"0", "explosion":"0"},
+        {"name":"Burned Female", "melee":"22", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Female", "melee":"22", "vomit":"20", "explosion":"0"},
+        {"name":"Burned Male", "melee":"24", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Male", "melee":"24", "vomit":"20", "explosion":"0"},
+        {"name":"Blood Hound", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Red Longarm", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Red Rumbler", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Bloat", "melee":"40", "vomit":"0", "explosion":"40"},
+        {"name":"Tendril", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Spider", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Brute", "melee":"30", "vomit":"40", "explosion":"0"},
+        {"name":"Leaper", "melee":"9999", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Dark Red Zone", "items":[
+        {"name":"Dog", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Female Zombie", "melee":"8", "vomit":"0", "explosion":"0"},
+        {"name":"Male Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Female Zombie", "melee":"10", "vomit":"0", "explosion":"0"},
+        {"name":"Fat Male Zombie", "melee":"12", "vomit":"0", "explosion":"0"},
+        {"name":"Burned Female", "melee":"22", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Female", "melee":"22", "vomit":"20", "explosion":"0"},
+        {"name":"Burned Male", "melee":"24", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Male", "melee":"24", "vomit":"20", "explosion":"0"},
+        {"name":"Blood Hound", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Red Longarm", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Red Rumbler", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Bloat", "melee":"40", "vomit":"0", "explosion":"40"},
+        {"name":"Tendril", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Spider", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Brute", "melee":"30", "vomit":"40", "explosion":"0"},
+        {"name":"Leaper", "melee":"9999", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Black Zone", "items":[
+        {"name":"Red Longarm", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Red Rumbler", "melee":"50", "vomit":"0", "explosion":"0"},
+        {"name":"Black Longarm", "melee":"55", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Longarm", "melee":"55", "vomit":"110", "explosion":"0"},
+        {"name":"Flesh Hound", "melee":"100", "vomit":"0", "explosion":"0"},
+        {"name":"Black Rumbler", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Rumbler", "melee":"50", "vomit":"0", "explosion":"60"},
+        {"name":"Bloat", "melee":"40", "vomit":"0", "explosion":"40"},
+        {"name":"Tendril", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Spider", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Brute", "melee":"30", "vomit":"40", "explosion":"0"},
+        {"name":"Leaper", "melee":"9999", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"White Zone", "items":[
+        {"name":"Black Longarm", "melee":"55", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Longarm", "melee":"55", "vomit":"110", "explosion":"0"},
+        {"name":"Flesh Hound", "melee":"100", "vomit":"0", "explosion":"0"},
+        {"name":"Black Rumbler", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Rumbler", "melee":"50", "vomit":"0", "explosion":"60"},
+        {"name":"Bloat", "melee":"40", "vomit":"0", "explosion":"40"},
+        {"name":"Tendril", "melee":"70", "vomit":"0", "explosion":"0"},
+        {"name":"Spider", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Brute", "melee":"30", "vomit":"40", "explosion":"0"},
+        {"name":"Leaper", "melee":"9999", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Death Row", "items":[
+        {"name":"Crow", "melee":"100", "vomit":"0", "explosion":"0"},
+        {"name":"Hazmat Zombie", "melee":"150", "vomit":"0", "explosion":"0"},
+        {"name":"Evolved Longarm", "melee":"250", "vomit":"0", "explosion":"0"},
+        {"name":"Armored Longarm", "melee":"300", "vomit":"0", "explosion":"0"},
+        {"name":"Evolved Rumbler", "melee":"250", "vomit":"150", "explosion":"0"},
+        {"name":"Cystic Rumbler", "melee":"300", "vomit":"200", "explosion":"200"},
+        {"name":"Canary", "melee":"150", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Wasteland", "items":[
+        {"name":"Black Bone", "melee":"180", "vomit":"0", "explosion":"200"},
+        {"name":"Black Tendril", "melee":"220", "vomit":"0", "explosion":"0"},
+        {"name":"Hell Hound", "melee":"250", "vomit":"0", "explosion":"0"},
+        {"name":"Harvester", "melee":"9999", "vomit":"0", "explosion":"0"},
+        {"name":"Titan", "melee":"80", "vomit":"0", "explosion":"0"},
+        {"name":"Canary", "melee":"150", "vomit":"0", "explosion":"0"}
+    ]},
+
+    {"cat":"Bosses", "items":[
+        {"name":"Flaming Zombie", "melee":"40", "vomit":"0", "explosion":"0"},
+        {"name":"Mother", "melee":"80", "vomit":"80", "explosion":"50"},
+        {"name":"Titan", "melee":"80", "vomit":"0", "explosion":"0"},
+        {"name":"Wraith", "melee":"80", "vomit":"0", "explosion":"0"},
+        {"name":"Giant Spider", "melee":"80", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Mother", "melee":"150", "vomit":"150", "explosion":"100"},
+        {"name":"Flaming Titan", "melee":"150", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Wraith", "melee":"150", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Giant Spider", "melee":"150", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Longarm", "melee":"110", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Rumbler", "melee":"140", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Flesh Hound", "melee":"180", "vomit":"0", "explosion":"0"},
+        {"name":"Charred Titan", "melee":"400", "vomit":"0", "explosion":"0"},
+        {"name":"Flaming Charred Titan", "melee":"800", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Longarm", "melee":"300", "vomit":"0", "explosion":"0"},
+        {"name":"Irradiated Titan", "melee":"150", "vomit":"0", "explosion":"100"},
+        {"name":"Irradiated Mother", "melee":"150", "vomit":"200", "explosion":"200"},
+        {"name":"Irradiated Wraith", "melee":"150", "vomit":"0", "explosion":"150"},
+        {"name":"Irradiated Spider", "melee":"150", "vomit":"0", "explosion":"150"},
+        {"name":"Mega Titan", "melee":"270", "vomit":"0", "explosion":"0"},
+        {"name":"Mega Mother", "melee":"270", "vomit":"200", "explosion":"100"},
+        {"name":"Mega Wraith", "melee":"270", "vomit":"0", "explosion":"0"},
+        {"name":"Mega Spider", "melee":"270", "vomit":"0", "explosion":"0"},
+        {"name":"Charred Mother", "melee":"200", "vomit":"250", "explosion":"600"},
+        {"name":"Charred Wraith", "melee":"250", "vomit":"0", "explosion":"0"},
+        {"name":"Charred Spider", "melee":"250", "vomit":"0", "explosion":"0"},
+        {"name":"Devil Hound", "melee":"700", "vomit":"0", "explosion":"0"},
+        {"name":"Volatile Leaper", "melee":"0", "vomit":"0", "explosion":"400"}
+    ]}
+]
