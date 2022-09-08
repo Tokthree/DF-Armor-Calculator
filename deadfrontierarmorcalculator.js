@@ -331,8 +331,8 @@ $(document).ready(function () {
                         dtbMelee = Math.ceil(testHtb * (damage - (damage * boostValue)));
                         dtkMelee = Math.ceil(testHtk * (damage - (damage * boostValue)));
                     } else {
-                        dtbMelee = 0;
-                        dtkMelee = 0;
+                        dtbMelee = "N/A";
+                        dtkMelee = "N/A";
                     };
 
                     damage = vomit;
@@ -346,8 +346,8 @@ $(document).ready(function () {
                         dtbVomit = Math.ceil(testHtb * (damage - (damage * boostValue)));
                         dtkVomit = Math.ceil(testHtk * (damage - (damage * boostValue)));
                     } else {
-                        dtbVomit = 0;
-                        dtkVomit = 0;
+                        dtbVomit = "N/A";
+                        dtkVomit = "N/A";
                     };
 
                     damage = explosion;
@@ -359,8 +359,8 @@ $(document).ready(function () {
                         dtbExplosion = Math.ceil(testHtb * (damage - (damage * boostValue)));
                         dtkExplosion = Math.ceil(testHtk * (damage - (damage * boostValue)));
                     } else {
-                        dtbExplosion = 0;
-                        dtkExplosion = 0;
+                        dtbExplosion = "N/A";
+                        dtkExplosion = "N/A";
                     };
 
                     damageType = "";
